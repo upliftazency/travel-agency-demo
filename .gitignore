@@ -1,0 +1,6 @@
+node_modules/
+.netlify/
+.output/
+dist/
+.DS_Store
+*.log
